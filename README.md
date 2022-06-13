@@ -8,6 +8,7 @@
 - gcc 11.2.0
 - cmake 3.22.1
 - c++ 20
+- Ubuntu 22.04
 
 ![](https://img.shields.io/static/v1?label=build&message=passing&color=brightgreen)
 
